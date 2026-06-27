@@ -3,7 +3,7 @@
 
 This repository contains the reverse engineering challenges I authored for the 1337 Local CTF competition.
 
-## 📂 Challenges Overview
+## Challenges:
 
 | Challenge Name | Description / Topic |
 | :--- | :--- |
@@ -15,7 +15,7 @@ This repository contains the reverse engineering challenges I authored for the 1
 | **`videur`** | Custom VM / interpreter reversing inside a Linux initramfs cpio archive. |
 | **`zrbaan`** | Multi-process IPC with timing-sensitive metronome anti-debugging gates. |
 
-## 🛠️ Usage & Setup
+## More info:
 
 Each directory contains the distributed challenge files. To run or analyze them locally:
 1. Navigate to the specific challenge directory.
