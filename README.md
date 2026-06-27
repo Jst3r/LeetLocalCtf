@@ -22,5 +22,10 @@ Each directory contains the distributed challenge files. To run or analyze them 
 2. Ensure you have the appropriate architectures and libraries set up (e.g., standard Linux tooling, GBA emulators for `glitched_colosseum`).
 3. Make binaries executable if necessary: `chmod +x <binary>`
 
+
+
+## notes:
+- For the CVE-based challenges (`big_brother` and `dirty_ptrace`), i designed the challenges to simulate the core mechanics as much as possible.
+
 ---
 *Authored by Jst3r*
